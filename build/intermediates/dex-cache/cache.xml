@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/wasifali/Desktop/MyApplication/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/wasifali/Desktop/MyApplication/app/build/intermediates/pre-dexed/debug/classes-7ddcd4dd6de5785367ce1e6c9699853ae220b875.jar" />
+    </item>
+    <item
+        jar="/Users/wasifali/Desktop/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/wasifali/Desktop/MyApplication/app/build/intermediates/pre-dexed/debug/classes-78fca4d05d0ac7623a24bc31527df8ed0cf05b03.jar" />
+    </item>
+    <item
+        jar="/Users/wasifali/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.1/f5aa318bda4c6c8d688c9d00b90681dcd82ce636/httpcore-4.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f5aa318bda4c6c8d688c9d00b90681dcd82ce636">
+        <dex dex="/Users/wasifali/Desktop/MyApplication/app/build/intermediates/pre-dexed/debug/httpcore-4.4.1-eab899ca9a8b935dd3917230ad31ac6618f523d5.jar" />
+    </item>
+    <item
+        jar="/Users/wasifali/Desktop/MyApplication/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/wasifali/Desktop/MyApplication/app/build/intermediates/pre-dexed/debug/classes-a9190624cdbae82b743585f38f2a9790854cfac8.jar" />
+    </item>
+    <item
+        jar="/Users/wasifali/Desktop/MyApplication/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/wasifali/Desktop/MyApplication/app/build/intermediates/pre-dexed/debug/classes-d1f1402924f8412b4a289c806a1934482275b5b7.jar" />
+    </item>
+    <item
+        jar="/Users/wasifali/Desktop/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/wasifali/Desktop/MyApplication/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-b6fc77566c492d260ab52d7261c903556e75feea.jar" />
+    </item>
+    <item
+        jar="/Users/wasifali/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/wasifali/Desktop/MyApplication/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-89976f85b9d0e7124e346f0786bb9239ca92091f.jar" />
+    </item>
+
+</items>
